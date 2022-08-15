@@ -1,0 +1,7 @@
+"id","email","name","password","role","surname","username"
+1,"ali@iyi.com","Ali",NULL,"student","İyi
+","AliİYİ"
+2,"veli@güneş.com","Veli",NULL,"student","Güneş","VeliGÜNEŞ"
+3,"zeynep@uyar.com","Zeynep",NULL,"student","Uyar","ZeynepUYAR"
+4,"ayse@güzel.com","Ayşe",NULL,"student","Güzel","AyşeGÜZEL"
+5,"ayse@güzel.com","Ayşe","12345","student","kötü","AyşeGÜZEL"
