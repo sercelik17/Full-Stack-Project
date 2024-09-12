@@ -1,1 +1,1 @@
-# project
+# Student Information System Project
